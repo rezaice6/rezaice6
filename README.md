@@ -31,5 +31,5 @@ A visual + symbolic toolkit for understanding and simulating finite groups.
 ---
 
 ## 📫 Contact Me
-- Email: rezaice6@example.com
+- Email: yaghobpoor@khu.ac.ir
 - GitHub: [@rezaice6](https://github.com/rezaice6)
